@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img width="2000" src="https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif">
 <!--
 **fatihsyn/fatihsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
