@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### An entrepreneurial software developer who develops himself and his environment.
 
 <img width="2000" src="https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif">
 <!--
